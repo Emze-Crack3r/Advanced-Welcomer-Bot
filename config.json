@@ -1,17 +1,17 @@
 {
-  "botToken": "YOUR BOT TOKEN, Get this from Discord developer portal",
-  "botStatus": "YOUR BOT STATUS, Must be replaced to one of them: 'online' or 'idle' or 'dnd' or 'invisible'",
-  "botActivityName": "YOUR BOT ACTIVITY NAME, That display bottom of your status",
+  "botToken": "MTExNjY0MzU0MDM0OTUwMTQ3Mg.GL8F2E.7bKiAY76fSqZlUpP55x0vNS8lqyitGY0j7VUFw",
+  "botStatus": "dnd",
+  "botActivityName": "Scanning new users",
   "displayMemberCountVoiceChannelId": "ENTER THE VOICE CHANNEL ID, For display your total server members count",
-  "welcomeChannelId": "YOUR WELCOME CHANNEL ID, For send a welcome message and delete it after 90s (Only Numbers)",
+  "welcomeChannelId": "1371496415628623882",
   "welcomeLogChannelId": "YOUR WELCOME LOG CHANNEL ID, For send some info about this member (Only Numbers)",
   "welcomeRoleId": "YOUR WELCOMER ROLE ID, Assign to the human's member (Only Numbers)",
-  "welcomeBotRoleId": "YOUR WELCOMER BOT ROLE ID, Assign to the bot's user (Only Numbers)",
+  "welcomeBotRoleId": "1377684340120485979",
   "welcomeChannelLinkButton": {
     "label": "YOUR CHANNEL WELCOMER BUTTON LABEL (Less than 80 characters)",
     "url": "YOUR CHANNEL WELCOMER BUTTON URL (Must be only URL and contain: http or https)"
   },
-  "pingOnJoinChannelId": "YOUR PING ON JOIN CHANNEL ID, For mention joined member and delete it after 3s (Only Numbers)",
+  "pingOnJoinChannelId": "1371496415628623882",
   "dmWelcomerDescription": "YOUR DM WELCOMER EMBED DESCRIPTION (Less than 4096 characters and use '\n' for go to the any new line)",
   "dmWelcomerLinkButtons": {
     "first": {
